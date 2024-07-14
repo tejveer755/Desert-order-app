@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Desert-order-app/static/css/main.b4f37e9f.css",
+    "main.js": "/Desert-order-app/static/js/main.a88e3446.js",
+    "static/js/453.5ae27463.chunk.js": "/Desert-order-app/static/js/453.5ae27463.chunk.js",
+    "static/media/illustration-empty-cart.svg": "/Desert-order-app/static/media/illustration-empty-cart.c2bca079754e885ead5da25eb67b468e.svg",
+    "static/media/icon-order-confirmed.svg": "/Desert-order-app/static/media/icon-order-confirmed.13c71f684bda7569ca1696eb63bce688.svg",
+    "static/media/icon-carbon-neutral.svg": "/Desert-order-app/static/media/icon-carbon-neutral.13953e5e1e4c166b4acd1fb7ead600c5.svg",
+    "index.html": "/Desert-order-app/index.html",
+    "static/media/icon-add-to-cart.svg": "/Desert-order-app/static/media/icon-add-to-cart.12141fdf0da9c38c6421fe087a5b5125.svg",
+    "static/media/icon-remove-item.svg": "/Desert-order-app/static/media/icon-remove-item.f6d5b4bec643d592f9e7f7c6ce5bbd00.svg",
+    "static/media/icon-increment-quantity.svg": "/Desert-order-app/static/media/icon-increment-quantity.198f568ac3a5878a42e68f03afb1837b.svg",
+    "static/media/icon-decrement-quantity.svg": "/Desert-order-app/static/media/icon-decrement-quantity.94e32888eee4ef88beccedc6f9534341.svg",
+    "main.b4f37e9f.css.map": "/Desert-order-app/static/css/main.b4f37e9f.css.map",
+    "main.a88e3446.js.map": "/Desert-order-app/static/js/main.a88e3446.js.map",
+    "453.5ae27463.chunk.js.map": "/Desert-order-app/static/js/453.5ae27463.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4f37e9f.css",
+    "static/js/main.a88e3446.js"
+  ]
+}
